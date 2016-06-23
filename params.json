@@ -1,0 +1,6 @@
+{
+  "name": "Svg cluster",
+  "tagline": "SVG element cluster animate through js and css3",
+  "body": "#SVG_cluster\r\n## svg 聚合效果  \r\n利用js和CSS3，实现SVG元素的聚拢和散开的动画效果。\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
